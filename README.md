@@ -10,5 +10,5 @@ plist 文件中图片链接不能为空，不然会安装失败，可以随便�
 ### 快速安装
 省略上面的第一步，直接在 Safari 浏览器地址栏粘贴链接  
 `itms-services://?action=download-manifest&url=https://example.com/xxx.plist`  
-回车就可以下载
+回车就可以下载；  
 plist 文件中的 ipa 文件存储在腾讯云。
