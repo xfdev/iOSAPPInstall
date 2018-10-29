@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.aaa.com/image.57x57.png</string>
+					<string>http://is4.mzstatic.com/image/thumb/Purple118/v4/aa/76/be/aa76be9f-f7ed-2df0-2aaa-3037f4814009/source/512x512bb.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.aaa.com/image.512x512.png</string>
+					<string>http://is4.mzstatic.com/image/thumb/Purple118/v4/aa/76/be/aa76be9f-f7ed-2df0-2aaa-3037f4814009/source/512x512bb.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
