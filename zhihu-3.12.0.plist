@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ipafiletest-1254077909.file.myqcloud.com/zhihu%203.12.0.ipa</string>
+					<string>http://ipafiletest-1254077909.cosbj.myqcloud.com/zhihu%203.12.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://otljffdv3.bkt.clouddn.com/57.png</string>
+					<string>http://ipafiletest-1254077909.cosbj.myqcloud.com/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://otljffdv3.bkt.clouddn.com/512.png</string>
+					<string>http://ipafiletest-1254077909.cosbj.myqcloud.com/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
