@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xfdev/iOSAPPInstall/master/57.png</string>
+					<string>http://ipafiletest-1254077909.cosbj.myqcloud.com/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xfdev/iOSAPPInstall/master/512.png</string>
+					<string>http://ipafiletest-1254077909.cosbj.myqcloud.com/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
