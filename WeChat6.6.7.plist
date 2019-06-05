@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.aaa.com/iii.ipa</string>
+					<string>http://ipafiletest-1254077909.cosbj.myqcloud.com/%E5%BE%AE%E4%BF%A16.6.7.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.aaa.com/image.57x57.png</string>
+					<string>https://raw.githubusercontent.com/xfdev/iOSAPPInstall/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.aaa.com/image.512x512.png</string>
+					<string>https://raw.githubusercontent.com/xfdev/iOSAPPInstall/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yucaitong.shanxi</string>
+				<string>com.tencent.xin</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>6.6.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YuCaiTong</string>
+				<string>微信</string>
 			</dict>
 		</dict>
 	</array>
