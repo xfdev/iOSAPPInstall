@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>投资邦.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+				<key>dateExpires</key>
+				<string>2021/10/14</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AFNetworking.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManager.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MBProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MJRefresh.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Masonry.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>YYCategories.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D801CE8375042D4264D2F4857754F172EDBD0520</string>
+						<key>dateExpires</key>
+						<string>2021/10/14</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>YYModel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NACJL5GVWR</string>
+						<key>name</key>
+						<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NACJL5GVWR.com.hydra.FRBTCNews</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NACJL5GVWR</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>NACJL5GVWR.com.hydra.FRBTCNews</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>FRBTCNews.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>99ff97e4-bcc6-466b-ad76-4da7252e60c6</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.hydra.FRBTCNews</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NACJL5GVWR</string>
+				<key>name</key>
+				<string>HK HYDRA CULTURE SPORTS LIMITED</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
